@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [pauloalves.me](pauloalves.me)
+- 👨‍💻 All of my projects are available at [pauloalves.me](https://pauloalves.me)
 
 - 💬 Ask me about **Javascript, React and React Native**
 
