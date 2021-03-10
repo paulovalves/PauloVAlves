@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Alves</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Calcalorias](calcalorias.com)
+- 🔭 I’m currently working on [Calcalorias](https://calcalorias.com)
 
 - 🌱 I’m currently learning **NextJS**
 
