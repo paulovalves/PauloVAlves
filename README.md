@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Paulo Alves</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Software developer.</h3>
 
 - 🔭 I’m currently working on [Calcalorias](https://calcalorias.com)
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [pauloalves.me](https://pauloalves.me)
+- 👨‍💻 You canfind me at [pauloalves.me](https://pauloalves.me)
 
 - 💬 Ask me about **Javascript, React and React Native**
 
-- 📫 How to reach me **contato@pauloalves.me**
+- 📫 Let's talk **contato@pauloalves.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
