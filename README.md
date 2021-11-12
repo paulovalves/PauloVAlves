@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Alves</h1>
 <h3 align="center">Software developer.</h3>
 
-- 👨‍💻 You can find me at [pauloalves.me](https://pauloalves.me)
-
-- 📫 Let's talk **contato@pauloalves.me**
+- 📫 Let's talk **paulovalves@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
